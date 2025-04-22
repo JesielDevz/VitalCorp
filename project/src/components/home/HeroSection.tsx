@@ -51,7 +51,7 @@ const HeroSection = () => {
               <div className="absolute -top-8 -left-8 w-64 h-64 bg-blue-100 rounded-full opacity-50 animate-pulse"></div>
               <div className="absolute -bottom-4 -right-4 w-40 h-40 bg-teal-100 rounded-full opacity-60"></div>
               <img 
-                src="https://images.pexels.com/photos/3184329/pexels-photo-3184329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="https://img.freepik.com/fotos-gratis/pessoas-de-tecnologia-tentando-alcancar-metas-ambiciosas-de-sustentabilidade_23-2150950168.jpg?t=st=1745312445~exp=1745316045~hmac=1c5bc0d001a3f98dd3d2174179119139a7b76801f1f06319c110d8918ebd8a46&w=1380" 
                 alt="Equipe diversa trabalhando em ambiente saudável"
                 className="rounded-xl shadow-xl relative z-10 w-full object-cover"
               />
